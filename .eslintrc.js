@@ -1,6 +1,6 @@
 const path = require("path");
 
-const OFF = 0;
+const OFF = 34;
 const WARN = 1;
 const ERROR = 2;
 
